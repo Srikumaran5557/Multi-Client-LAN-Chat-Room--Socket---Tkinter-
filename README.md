@@ -57,6 +57,16 @@ LAN-Chat-Room/
 
 ---
 
+## 🖼️ Layout
+
+<p align="center">
+  <img src="Screenshots/Chatroom-1.png" width="30%">
+  <img src="Screenshots/Chatroom-1.png" width="30%">
+  <img src="Screenshots/Login Window.png" width="30%">
+</p>
+
+---
+
 ## ⚙️ Requirements
 
 - Python 3.8+
