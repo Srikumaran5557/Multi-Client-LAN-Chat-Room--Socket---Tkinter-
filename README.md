@@ -35,19 +35,9 @@ The system is lightweight, dependency-minimal, and designed as a foundation for 
 
 ## 🏗️ Architecture
 
-
-::contentReference[oaicite:0]{index=0}
-
-
-**Flow**
-
-Client → TCP → Server → TCP → Other Clients  
-
-Server acts as a routing hub for:
-- public broadcasts  
-- private messages  
-- presence updates  
-
+<p align="center">
+  <img src="Screenshots/architecture.png" width="900"/>
+</p>
 ---
 
 ## 🗂️ Project Structure
