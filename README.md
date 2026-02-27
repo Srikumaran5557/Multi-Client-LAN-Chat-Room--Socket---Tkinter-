@@ -1,19 +1,3 @@
-Perfect — here’s a polished README upgraded exactly as you asked:
-
-* emojis in headings
-* emoji bullet points
-* architecture shown via image block
-* clean file structure diagram
-* aligned to your repo
-* professional but readable
-
-You can paste directly into `README.md`.
-
----
-
-# ✅ Final README.md
-
-```markdown
 # 💬 LAN Chat Room with Private Messaging (Python & Tkinter)
 
 A GUI-based LAN chat room application built using Python sockets and Tkinter.  
