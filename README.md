@@ -36,7 +36,7 @@ The system is lightweight, dependency-minimal, and designed as a foundation for 
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="Screenshots/architecture.png" width="900"/>
+  <img src="Screenshots/Architecture.png" width="900"/>
 </p>
 ---
 
