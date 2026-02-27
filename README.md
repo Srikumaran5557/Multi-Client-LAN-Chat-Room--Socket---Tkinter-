@@ -38,6 +38,7 @@ The system is lightweight, dependency-minimal, and designed as a foundation for 
 <p align="center">
   <img src="Screenshots/Architecture.png" width="900"/>
 </p>
+
 ---
 
 ## 🗂️ Project Structure
